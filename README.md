@@ -90,12 +90,12 @@
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VALENCIABRIDGE&show_icons=true&theme=dracula&hide_border=true&title_color=FFD700&icon_color=FFC0CB&text_color=98FB98&border_color=F08080&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VALENCIABRIDGE&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=87CEEB&icon_color=FFD700&text_color=FFC0CB&border_color=98FB98" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VALENCIABRIDGE&show_icons=true&theme=dracula&hide_border=true&title_color=FFD700&icon_color=FFC0CB&text_color=98FB98&border_color=F08080**&cache_buster=20250929**" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VALENCIABRIDGE&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=87CEEB&icon_color=FFD700&text_color=FFC0CB&border_color=98FB98**&cache_buster=20250929**" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VALENCIABRIDGE&theme=dracula&hide_border=true&border_color=F08080" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VALENCIABRIDGE&theme=dracula&hide_border=true&border_color=F08080**&cache_buster=20250929**" height="165"/>
 </div>
 
 <p align="center">
@@ -131,3 +131,8 @@
     <p><strong>“It's not a bug, it's an undocumented feature.”</strong></p>
   </blockquote>
 </p>
+
+---
+
+**Penting:**
+Untuk pembaruan di masa depan, setiap kali Anda merasa statistik Anda tidak diperbarui, cukup **ganti angka atau tanggal** di parameter `&cache_buster=...` dengan angka atau string yang berbeda. Misalnya, ubah menjadi `&cache_buster=20250930` atau `&cache_buster=refresh2`.
